@@ -1,5 +1,5 @@
 # Readme
-A partitioned-storage database.
+A Redundant Array of Independent Database Nodes (RAIDN) Controller.
 
 ### Credits
-- [Partitioned-Storage Database - Hcpty](https://github.com/hcpty/partitioned-storage-database)
+- [Redundant Array of Independent Database Node - Hcpty](https://github.com/hcpty/redundant-array-of-independent-database-nodes)
