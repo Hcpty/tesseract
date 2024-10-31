@@ -1,5 +1,5 @@
 # Readme
-A Redundant Array of Independent Database Nodes (RAIDN) driver.
+A Redundant Array of Independent Nodes (RAIN) driver.
 
 ### Credits
-- [Redundant Array of Independent Database Node - Hcpty](https://github.com/hcpty/redundant-array-of-independent-database-nodes)
+- [Redundant Array of Independent Node - Hcpty](https://github.com/hcpty/redundant-array-of-independent-nodes)
