@@ -1,5 +1,5 @@
 # Readme
-A database management unit.
+A dataspace management unit.
 
 ### Credits
-- [Database Management Unit - Hcpty](https://github.com/hcpty/database-management-unit)
+- [Dataspace Management Unit - Hcpty](https://github.com/hcpty/dataspace-management-unit)
