@@ -1,5 +1,5 @@
 # Readme
-A RAIN (Redundant Array of Independent Nodes) driver.
+A database management unit.
 
 ### Credits
-- [Redundant Array of Independent Nodes - Hcpty](https://github.com/hcpty/redundant-array-of-independent-nodes)
+- [Database Management Unit - Hcpty](https://github.com/hcpty/database-management-unit)
