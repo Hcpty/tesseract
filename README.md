@@ -1,5 +1,5 @@
 # Readme
-A TTMU (Typed Tablespace Management Unit).
+A DMU (Database Management Unit).
 
 ### Credits
-- [Typed Tablespace Management Unit - Hcpty](https://github.com/hcpty/typed-tablespace-management-unit)
+- [Database Management Unit - Hcpty](https://github.com/hcpty/database-management-unit)
