@@ -9,4 +9,4 @@ A DMU (Database Management Unit).
 
 - (A Part Of) Resource Processor
   - [Oracle JDK](https://docs.oracle.com/en/java/javase/21/) and [Apache Maven](https://maven.apache.org/)
-  - [Apache Cassandra Java Client](https://github.com/apache/cassandra-java-driver)
+  - [Oracle Java & APIs](https://docs.oracle.com/en/java/javase/21/) and [Apache Cassandra Java Client](https://github.com/apache/cassandra-java-driver)
