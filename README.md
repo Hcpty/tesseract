@@ -1,5 +1,5 @@
 # Readme
-A DMU (Database Management Unit).
+A Database Management Unit.
 
 ### Credits
 
